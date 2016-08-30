@@ -1,5 +1,5 @@
 {
-    "name": "zgetro/phpflickr",
+    "name": "wellnet/phpflickr",
     "description": "phpflickr is official client lib of php-client-flickr. here i just added composer file after fork it from dan-coulter/phpflickr. no any intension to harm official Licence",
     "type": "non",
     "license": "general",
